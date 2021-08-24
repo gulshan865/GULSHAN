@@ -2,7 +2,7 @@ package fourth;
 
 public class MethodWithReturnType {
     public String demo(){
-        String name="sitama";
+        String name="saitama";
         return name;
     }
     public int roll(){
