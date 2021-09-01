@@ -11,7 +11,7 @@ public class Alphabets_Numbers {
             System.out.println(alfab);
         }
         for (int digits : numbers ) {
-            System.out.print(digits);
+            System.out.println(digits);
         }
 
     }
